@@ -16,6 +16,13 @@
 
 ![Painel de viagens](assets/viagens.png)
 
+## Experimente
+
+O demo abre sem login e com dados fictícios. Nada do que você fizer é salvo no servidor.
+
+- **Painel administrativo:** [painel.tripforme.com.br/?demo=1](https://painel.tripforme.com.br/?demo=1)
+- **App do viajante:** [app.tripforme.com.br/?demo=1](https://app.tripforme.com.br/?demo=1)
+
 ## O problema
 
 Eu construí o painel e o app para organizar e otimizar o trabalho de montar viagens personalizadas em
